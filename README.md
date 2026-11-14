@@ -6,7 +6,7 @@
 <img alt="纯标准库" src="https://img.shields.io/badge/%E7%BA%AF%E6%A0%87%E5%87%86%E5%BA%93-0%20deps-success?style=for-the-badge">
 <img alt="不联网" src="https://img.shields.io/badge/%E7%A6%BB%E7%BA%BF-%E4%B8%8D%E8%81%94%E7%BD%91-informational?style=for-the-badge">
 
-![主菜单与配平](docs/截图_配平.jpg)
+![主菜单与配平](docs/screenshot-balance.jpg)
 
 ## 三个功能
 
@@ -23,7 +23,7 @@
 
 **3. 同位素查询** —— 24 种常见元素的质量数、天然丰度、稳定性、半衰期、主要用途，每条数据单独标注把握度（高 / 中 / 不确定）。
 
-![元素查询](docs/截图_元素查询.jpg)
+![元素查询](docs/screenshot-element.jpg)
 
 ## 使用方法
 
