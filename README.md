@@ -1,6 +1,10 @@
-# 高中化学工具
+<h1>高中化学工具</h1>
 
 一个纯本地的命令行小工具，**不联网、不装第三方库、双击即用**。
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3.6%2B-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="纯标准库" src="https://img.shields.io/badge/%E7%BA%AF%E6%A0%87%E5%87%86%E5%BA%93-0%20deps-success?style=for-the-badge">
+<img alt="不联网" src="https://img.shields.io/badge/%E7%A6%BB%E7%BA%BF-%E4%B8%8D%E8%81%94%E7%BD%91-informational?style=for-the-badge">
 
 ![主菜单与配平](docs/截图_配平.jpg)
 
